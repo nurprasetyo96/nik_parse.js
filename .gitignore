@@ -1,4 +1,4 @@
-bin
 .gitattributes
 test.js
 *.jpg
+node_modules
